@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "NIKUSHAYT777-PVDC.aternos.me"
+    "ip":"ip":"NIKUSHAYT777-PVDC.aternos.me",
     "port": 34083,
     "version": "1.21.11",
     "try-creative": false
