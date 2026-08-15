@@ -2,15 +2,13 @@
   "name": "Gela",
   "bot-account": {
     "username": "Gela",
-    "password": "nikolozNG777",
-    "type": "online"
+    "password": "",
+    "type": "offline"
   },
   "server": {
     "ip": "NIKUSHAYT777-PVDC.aternos.me",
     "port": 34083,
     "version": "1.21.11"
-  },
-    "try-creative": false
   },
   "position": {
     "enabled": true,
