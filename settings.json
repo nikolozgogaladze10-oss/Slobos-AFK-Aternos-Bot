@@ -30,7 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages":Hello i am Gela},
+      "messages":Hello i am Gela,
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
