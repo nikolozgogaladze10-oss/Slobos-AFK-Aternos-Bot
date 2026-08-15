@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "Gela",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "username": "Gela",
+    "password": "nikolozNG777",
+    "type": "online"
   },
   "server": {
     "ip": "NIKUSHAYT777-PVDC.aternos.me"
@@ -30,10 +30,8 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+      "messages":Hello i am Gela
+        
       ]
     },
     "chat-log": true,
